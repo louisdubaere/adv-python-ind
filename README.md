@@ -37,4 +37,4 @@ The notebook can be opened and ran with Jupyter Notebook in an environment with 
 
 ## The Data
 
-The data can be found on [the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset).
+The data can be found on [the UCI Machine Learning Repository website](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset).
