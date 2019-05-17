@@ -1,6 +1,6 @@
 # Individual Python Assignment using Dask
 
-This project predicts the amount of shared bikes that get used in Washington per hour.
+This project predicts the amount of shared bikes that get used in Washington D.C. per hour.
 It makes use of Dask.
 
 ## Getting Started
@@ -17,7 +17,7 @@ The Python Notebook makes use of 3 different packages namely:
 
 It is required that these packages are installed in the environment where the Python Notebook is ran.
 
-This can be done using Anconda-Navigator or by running following commands in the terminal
+This can be done using Anaconda-Navigator or by running following commands in the terminal
 
 ```
 conda install dask
