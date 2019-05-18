@@ -2,6 +2,7 @@
 
 This project predicts the amount of shared bikes that get used in Washington D.C. per hour.
 It makes use of Dask.
+The in-depth EDA got left out, because this was done in another assignment already and this task was more focused on the use of Dask.
 
 ## Getting Started
 
